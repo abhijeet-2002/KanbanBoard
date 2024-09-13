@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KanbanBoard_quickcell/static/css/main.5c93ee6e.css",
+    "main.js": "/KanbanBoard_quickcell/static/js/main.43d402be.js",
+    "index.html": "/KanbanBoard_quickcell/index.html",
+    "main.5c93ee6e.css.map": "/KanbanBoard_quickcell/static/css/main.5c93ee6e.css.map",
+    "main.43d402be.js.map": "/KanbanBoard_quickcell/static/js/main.43d402be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c93ee6e.css",
+    "static/js/main.43d402be.js"
+  ]
+}
